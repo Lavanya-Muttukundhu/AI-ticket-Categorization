@@ -1,0 +1,6 @@
+textblob
+python-dotenv
+
+
+use frontend to open in cmd--streamlit run app.py
+use for backend to open in cmd -- py main.py
